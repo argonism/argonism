@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+karahajimaru bot: https://twitter.com/karahajimaru
+
 <!--
 **argonism/argonism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
