@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - karahajimaru bot: https://twitter.com/karahajimaru
-- Mapchip Generator: https://mapchip-front.vercel.app/
+<!-- - Mapchip Generator: https://mapchip-front.vercel.app/ -->
 
 <!--
 **argonism/argonism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
