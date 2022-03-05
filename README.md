@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- karahajimaru bot: https://twitter.com/karahajimaru
-- Mapchip Generator: https://mapchip.argonism.info/
+- 🦈 から始まるbot: https://twitter.com/karahajimaru
+- 🤖 Mapchip Generator: https://mapchip.argonism.info/
 
 [![argonism's github stats](https://github-readme-stats.vercel.app/api?username=argonism)](https://github.com/anuraghazra/github-readme-stats)
 
