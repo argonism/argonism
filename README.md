@@ -2,6 +2,7 @@
 - 📔 Blog   : https://www.argonism.info/
 - 🦈 から始まるbot : https://twitter.com/karahajimaru
 - 🤖 Mapchip Generator : https://mapchip.argonism.info/
+- 🎮 Bot Shooter: https://www.youtube.com/watch?v=UwD4sabvJGQ
 
 <!--
 **argonism/argonism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
