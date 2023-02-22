@@ -5,7 +5,8 @@
 - 🎮 Bot Shooter: https://www.youtube.com/watch?v=UwD4sabvJGQ
 - 🧩 Twins Kdb Linker: Twins Kdb Linker: https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd
 - 📊 Klis Statistics: https://argonism.github.io/KlisStatistics/
-- 🍽️ Meshikoko!: https://github.com/argonism/Meshikoko, https://github.com/argonism/MeshikokoApp
+- 🐣 piyo: https://github.com/argonism/piyo 
+- 🎌 JANCE: https://github.com/argonism/JANCE
 
 <!--
 **argonism/argonism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
