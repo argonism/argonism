@@ -7,6 +7,7 @@
 - 📊 Klis Statistics: https://argonism.github.io/KlisStatistics/
 - 🐣 piyo: https://github.com/argonism/piyo 
 - 🎌 JANCE: https://github.com/argonism/JANCE
+- 🖨 hanmoto: https://github.com/argonism/hanmoto
 
 <!--
 **argonism/argonism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
