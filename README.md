@@ -2,11 +2,9 @@
 - 📔 Blog   : https://www.argonism.info/
 - 🦈 から始まるbot : https://twitter.com/karahajimaru
 - 🤖 Mapchip Generator : https://mapchip.argonism.info/
-- 🎮 Bot Shooter: https://www.youtube.com/watch?v=UwD4sabvJGQ
 - 🧩 Twins Kdb Linker: Twins Kdb Linker: https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd
 - 📊 Klis Statistics: https://argonism.github.io/KlisStatistics/
 - 🐣 piyo: https://github.com/argonism/piyo 
-- 🎌 JANCE: https://github.com/argonism/JANCE
 - 🖨 hanmoto: https://github.com/argonism/hanmoto
 - 📝 MdTable2Latex： https://github.com/argonism/MdTable2Latex
 
