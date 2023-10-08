@@ -7,8 +7,8 @@
 - 🐣 piyo: https://github.com/argonism/piyo 
 - 🖨 hanmoto: https://github.com/argonism/hanmoto
 - 📝 MdTable2Latex： https://github.com/argonism/MdTable2Latex
-- 📝 mdfy: https://github.com/argonism/mdfy
-- 🐤 mdfy-esa: https://github.com/argonism/mdfy-esa
+- 🍳 mdfy: https://github.com/argonism/mdfy
+- 🥚 mdfy-esa: https://github.com/argonism/mdfy-esa
 
 <!--
 **argonism/argonism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
