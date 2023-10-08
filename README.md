@@ -7,7 +7,7 @@
 - 🐣 piyo: https://github.com/argonism/piyo 
 - 🖨 hanmoto: https://github.com/argonism/hanmoto
 - 📝 MdTable2Latex： https://github.com/argonism/MdTable2Latex
-- 🍳 mdfy: https://github.com/argonism/mdfy
+- 🪐 mdfy: https://github.com/argonism/mdfy
 - 🥚 mdfy-esa: https://github.com/argonism/mdfy-esa
 
 <!--
