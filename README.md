@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📔 Blog   : https://www.argonism.info/
+- 📔 Blog   : https://ahus.uk/
 - 🦈 から始まるbot : https://twitter.com/karahajimaru
 - 🤖 Mapchip Generator : https://mapchip.argonism.info/
 - 🧩 Twins Kdb Linker: Twins Kdb Linker: https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd
